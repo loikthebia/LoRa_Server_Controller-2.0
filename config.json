@@ -1,0 +1,21 @@
+{
+  "awsCredentials": {
+    "access_key": "f",
+    "secret_key": "b",
+    "token": "d"
+  },
+  "mysql_credentials": {
+    "hostname": "localhost",
+    "username": "root",
+    "password": "mysql",
+    "i": "isensit_gw",
+    "users_table": "isensit",
+    "device_table": "devices",
+    "values_table": "values",
+    "beacon_table": "beacons",
+    "acc_beacon_table": "acc_beacons"
+  },
+  "post_url": "https://lk9lsgdzih.execute-api.eu-central-1.amazonaws.com/beta/gateway",
+  "get_url": "https://rxlg8e0thl.execute-api.eu-central-1.amazonaws.com/prod/pets",
+  "software_version": 1.0
+}
